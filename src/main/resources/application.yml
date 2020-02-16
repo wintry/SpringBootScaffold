@@ -1,1 +1,10 @@
+management:
+  security:
+    enabled: false
 myname: 东南偏南
+info:
+  app:
+    name: 谋杀复读机的测试
+endpoints:
+  shutdown:
+    enabled: true
