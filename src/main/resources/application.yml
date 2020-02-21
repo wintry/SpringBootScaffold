@@ -1,6 +1,9 @@
 management:
   security:
     enabled: false
+  info:
+    git:
+      mode: full
 myname: 东南偏南
 info:
   app:
